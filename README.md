@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnThaCode
-- 👀 I’m interested in ...knowledge
-- 🌱 I’m currently learning ...Quality Assurance at CodingTemple
-- 💞️ I’m looking to collaborate on ...anything and everything that i can learn from
+- 👀 I’m interested in ...Generative and Agentic Ai, Front End Web Development, hardcore!
+- 🌱 I’m currently learning ...Ai Automation at TripleTen!
+- 💞️ I’m looking to collaborate on ...billion dollar business ideas!
 - 📫 How to reach me... immaculateleila202@gmail.com
 
 <!---
